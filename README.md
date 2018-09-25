@@ -11,6 +11,7 @@ Esse repositório tem como objetivo, listar todas as empresas de T.I situadas em
 * [PD Case](http://www.pdcase.com/site/)
 * [VoxData](https://www.voxdatati.com.br/)
 * [Fóton](http://www.foton.la/index.php/belem-pa)
+* [Execute Soluções](https://executeti.com.br/site/)
 
 
 ## Onde buscar vagas ? 
