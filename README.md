@@ -20,4 +20,4 @@ Esse repositório tem como objetivo, listar todas as empresas de T.I situadas em
 
 ## Eventos 
 
-* (Palestras Coletivas)[https://palestrascoletivas.tasafo.org/]
+* [Palestras Coletivas](https://palestrascoletivas.tasafo.org/)
