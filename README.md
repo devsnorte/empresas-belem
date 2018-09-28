@@ -12,6 +12,13 @@ Esse repositório tem como objetivo, listar todas as empresas de T.I situadas em
 * [VoxData](https://www.voxdatati.com.br/)
 * [Fóton](http://www.foton.la/index.php/belem-pa)
 * [Execute Soluções](https://executeti.com.br/site/)
+* [Equilibrium Web](http://www.equilibriumweb.com/2015/)
+* [Fóton](http://www.foton.la/)
+* [Stefanini](https://stefanini.com/pt-br/)
+* [TOTVS](https://www.totvs.com/home/)
+* [NLTI](https://www.nlti.com.br/)
+* [Montreal](https://www.montreal.com.br/)
+
 
 
 ## Onde buscar vagas ? 
