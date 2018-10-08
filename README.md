@@ -3,21 +3,22 @@ Esse repositório tem como objetivo, listar todas as empresas de T.I situadas em
 
 ## Lista das Empresas
 
-* [W3 Automação e Sistemas](http://w3as.com.br/)
-* [i9Amazon Tecnologia](http://i9amazon.com.br)
 * [Bredi](http://www.bredi.com.br/v3/)
-* [Jambu Tecnologia](http://www.jambu.com.br/xss/)
-* [Vibe Desenvolvimento](http://www.vibedesenv.com/)
-* [PD Case](http://www.pdcase.com/site/)
-* [VoxData](https://www.voxdatati.com.br/)
-* [Fóton](http://www.foton.la/index.php/belem-pa)
 * [Execute Soluções](https://executeti.com.br/site/)
 * [Equilibrium Web](http://www.equilibriumweb.com/2015/)
-* [Fóton](http://www.foton.la/)
-* [Stefanini](https://stefanini.com/pt-br/)
-* [TOTVS](https://www.totvs.com/home/)
+* [Fóton](http://www.foton.la/index.php/belem-pa)
+* [i9Amazon Tecnologia](http://i9amazon.com.br)
+* [Jambu Tecnologia](http://www.jambu.com.br/xss/)
 * [NLTI](https://www.nlti.com.br/)
 * [Montreal](https://www.montreal.com.br/)
+* [PD Case](http://www.pdcase.com/site/)
+* [Pronto Digital](http://www.prontodigital.com.br/v2/)
+* [Stefanini](https://stefanini.com/pt-br/)
+* [Solux TI e Telecom](http://www.soluxti.com.br/)
+* [TOTVS](https://www.totvs.com/home/)
+* [Vibe Desenvolvimento](http://www.vibedesenv.com/)
+* [VoxData](https://www.voxdatati.com.br/)
+* [W3 Automação e Sistemas](http://w3as.com.br/)
 
 
 
