@@ -14,6 +14,7 @@ Esse repositório tem como objetivo, listar todas as empresas de T.I situadas em
 * [NLTI](https://www.nlti.com.br/)
 * [PD Case](http://www.pdcase.com/site/)
 * [Pronto Digital](http://www.prontodigital.com.br/v2/)
+* [SEFA / Fadesp](https://app.sefa.pa.gov.br/pservicos/)
 * [Stefanini](https://stefanini.com/pt-br/)
 * [Solux TI e Telecom](http://www.soluxti.com.br/)
 * [TOTVS](https://www.totvs.com/home/)
