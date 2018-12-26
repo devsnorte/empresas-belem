@@ -16,6 +16,7 @@ Esse repositório tem como objetivo, listar todas as empresas de T.I situadas em
 * [Stefanini](https://stefanini.com/pt-br/)
 * [Solux TI e Telecom](http://www.soluxti.com.br/)
 * [TOTVS](https://www.totvs.com/home/)
+* [Tupan Sistemas Inteligentes](https://tupansi.com)
 * [Vibe Desenvolvimento](http://www.vibedesenv.com/)
 * [VoxData](https://www.voxdatati.com.br/)
 * [W3 Automação e Sistemas](http://w3as.com.br/)
