@@ -11,8 +11,9 @@ Para propor melhorias nessa lista, basta abrir uma **[issue](https://github.com/
 Ordenamos o conteúdo para uma melhor pesquisa.
 - [Lista das Empresas 🏢 ](#lista-das-empresas)
 - [Onde buscar vagas 💻 ](#onde-buscar-vagas-)
+- [Eventos 📆](#eventos-)
 
-## Lista das Empresas
+## Lista das Empresas 🏢
 
 * [Bredi](http://www.bredi.com.br/v3/)
 * [Execute Soluções](https://executeti.com.br/site/)
@@ -36,11 +37,11 @@ Ordenamos o conteúdo para uma melhor pesquisa.
 
 
 
-## Onde buscar vagas ? 
+## Onde buscar vagas ? 🔍
 
 * [Tá Safo](https://trampos.tasafo.org/)
 
 
-## Eventos 
+## Eventos 📆
 
 * [Palestras Coletivas](https://palestrascoletivas.tasafo.org/)
