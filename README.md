@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/vuejs-norte/artworks/blob/master/favicon-32x32.png?raw=true" width="32"/>
+<img align="right" src="https://github.com/vuejs-norte/artworks/blob/master/logo-60x60.png?raw=true" width="60"/>
 
 # Empresas em Belém 🏢
 Repositório para auxiliar na pesquisa de vagas e empresas que atuam em Belém e região metropolitana.
@@ -10,7 +10,7 @@ Para propor melhorias nessa lista, basta abrir uma **[issue](https://github.com/
 ## Conteúdos 🔥
 Ordenamos o conteúdo para uma melhor pesquisa.
 - [Lista das Empresas 🏢 ](#lista-das-empresas)
-- [Onde buscar vagas 💻 ](#onde-buscar-vagas-)
+- [Onde buscar vagas 🔍 ](#onde-buscar-vagas-)
 - [Eventos 📆](#eventos-)
 
 ## Lista das Empresas 🏢
