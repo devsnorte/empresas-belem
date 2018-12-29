@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/vuejs-norte/artworks/blob/master/logo-60x60.png?raw=true" width="60"/>
 
-# Empresas em Belém 🏢
+# Empresas em Belém 
 Repositório para auxiliar na pesquisa de vagas e empresas que atuam em Belém e região metropolitana.
 
 ## Contribuições 📌
