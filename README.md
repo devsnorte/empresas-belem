@@ -1,5 +1,16 @@
-# Empresas de Belém
-Esse repositório tem como objetivo, listar todas as empresas de T.I situadas em Belém
+<img align="right" src="https://github.com/vuejs-norte/artworks/blob/master/logo-152x152.png?raw=true" width="200"/>
+
+# Empresas em Belém 🏢
+Repositório para auxiliar na pesquisa de vagas e empresas que atuam em Belém e região metropolitana.
+
+## Contribuições 📌
+
+Para propor melhorias nessa lista, basta abrir uma **[issue](https://github.com/vuejs-norte/empresas-belem/issues)** nesse repositório. Assim, todos poderão colaborar para o melhor desenvolvimento desse repositório. E sintam-se à vontade em fazer Pull Requests!!
+
+## Conteúdos 🔥
+Ordenamos o conteúdo para uma melhor pesquisa.
+- [Lista das Empresas 🏢 ](#lista-das-empresas)
+- [Onde buscar vagas 💻 ](#onde-buscar-vagas-)
 
 ## Lista das Empresas
 
