@@ -16,6 +16,7 @@ Ordenamos o conteúdo para uma melhor pesquisa.
 ## Lista das Empresas 🏢
 
 * [Bredi](http://www.bredi.com.br/v3/)
+* [CDI](http://www.cdiweb.com.br/site/)
 * [Execute Soluções](https://executeti.com.br/site/)
 * [Equilibrium Web](http://www.equilibriumweb.com/2015/)
 * [Fóton](http://www.foton.la/index.php/belem-pa)
@@ -31,6 +32,7 @@ Ordenamos o conteúdo para uma melhor pesquisa.
 * [SEFA / Fadesp](https://app.sefa.pa.gov.br/pservicos/)
 * [Stefanini](https://stefanini.com/pt-br/)
 * [Solux TI e Telecom](http://www.soluxti.com.br/)
+* [TechLead IT Solutions](https://www.techlead.com.br/)
 * [TOTVS](https://www.totvs.com/home/)
 * [Tupan Sistemas Inteligentes](https://tupansi.com)
 * [Vibe Desenvolvimento](http://www.vibedesenv.com/)
