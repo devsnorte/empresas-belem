@@ -15,6 +15,7 @@ Ordenamos o conteúdo para uma melhor pesquisa.
 
 ## Lista das Empresas 🏢
 
+* [BitX Software house](https://bybitx.com/)
 * [Bredi](http://www.bredi.com.br/v3/)
 * [CDI](http://www.cdiweb.com.br/site/)
 * [Execute Soluções](https://executeti.com.br/site/)
@@ -38,6 +39,7 @@ Ordenamos o conteúdo para uma melhor pesquisa.
 * [Vibe Desenvolvimento](http://www.vibedesenv.com/)
 * [VoxData](https://www.voxdatati.com.br/)
 * [W3 Automação e Sistemas](http://w3as.com.br/)
+
 
 
 
