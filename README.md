@@ -34,6 +34,7 @@ Ordenamos o conteúdo para uma melhor pesquisa.
 * [Stefanini](https://stefanini.com/pt-br/)
 * [Solux TI e Telecom](http://www.soluxti.com.br/)
 * [TechLead IT Solutions](https://www.techlead.com.br/)
+* [Terras](https://www.terras.agr.br)
 * [TOTVS](https://www.totvs.com/home/)
 * [Tupan Sistemas Inteligentes](https://tupansi.com)
 * [Vibe Desenvolvimento](http://www.vibedesenv.com/)
