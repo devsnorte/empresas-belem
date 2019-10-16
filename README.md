@@ -10,7 +10,7 @@ Para propor melhorias nessa lista, basta abrir uma **[issue](https://github.com/
 ## Conteúdos 🔥
 Ordenamos o conteúdo para uma melhor pesquisa.
 - [Lista das Empresas 🏢 ](#lista-das-empresas)
-- [Onde buscar vagas 🔍 ](#onde-buscar-vagas-)
+- [Onde buscar vagas 🔍 ](#onde-buscar-vagas--)
 - [Eventos 📆](#eventos-)
 
 ## Lista das Empresas 🏢
