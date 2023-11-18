@@ -24,6 +24,7 @@ Ordenamos o conteúdo para uma melhor pesquisa.
 * [Ideias Mobile](http://www.ideiasmobile.com.br/)
 * [i9Amazon Tecnologia](http://i9amazon.com.br)
 * [Jambu Tecnologia](http://www.jambu.com.br/xss/)
+* [IT Protect](https://itprotect.com.br)
 * [Maia Produção de Softwares](http://www.maiatecnologia.com.br/)
 * [Montreal](https://www.montreal.com.br/)
 * [NLTI](https://www.nlti.com.br/)
