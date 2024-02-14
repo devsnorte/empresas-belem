@@ -47,4 +47,4 @@ Ordenamos o conteúdo para uma melhor pesquisa.
 
 ## Eventos 📆
 
-* [Agenda TI Pará]([https://palestrascoletivas.tasafo.org/](https://www.agendatipara.com.br/)https://www.agendatipara.com.br/)
+* [Agenda TI Pará](https://palestrascoletivas.tasafo.org/](https://www.agendatipara.com.br/)https://www.agendatipara.com.br/)
