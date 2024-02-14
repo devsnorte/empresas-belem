@@ -45,12 +45,6 @@ Ordenamos o conteúdo para uma melhor pesquisa.
 
 
 
-
-## Onde buscar vagas ? 🔍
-
-* [Tá Safo](https://trampos.tasafo.org/)
-
-
 ## Eventos 📆
 
-* [Palestras Coletivas](https://palestrascoletivas.tasafo.org/)
+* [Agenda TI Pará]([https://palestrascoletivas.tasafo.org/](https://www.agendatipara.com.br/)https://www.agendatipara.com.br/)
