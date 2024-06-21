@@ -42,8 +42,7 @@ Ordenamos o conteúdo para uma melhor pesquisa.
 * [Vibe Desenvolvimento](http://www.vibedesenv.com/)
 * [VoxData](https://www.voxdatati.com.br/)
 * [W3 Automação e Sistemas](http://w3as.com.br/)
-
-
+* [Áurea Phigital](https://aureaphigital.com.br)
 
 ## Eventos 📆
 
